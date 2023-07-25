@@ -29,7 +29,7 @@
 </ul>
 
 ```
-git clone git@github.com:Louay-Barraq/
+git clone https://github.com/Louay-Barraq/Recipe-Rescue-App.git
 ```
 <h3>To Install Python, You Can Simply :</h3>
 <ul>
